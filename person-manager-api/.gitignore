@@ -1,0 +1,8 @@
+/node_modules
+
+*.env
+
+/*.http
+
+*.db
+*.db-journal
